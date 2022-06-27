@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LamdaHarjoitus", "LamdaHarjoitus\LamdaHarjoitus.csproj", "{21B1E25A-EA6E-4C5E-A820-C6299CB0CD56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B1E25A-EA6E-4C5E-A820-C6299CB0CD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B1E25A-EA6E-4C5E-A820-C6299CB0CD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B1E25A-EA6E-4C5E-A820-C6299CB0CD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B1E25A-EA6E-4C5E-A820-C6299CB0CD56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A00DE52F-7B92-47E6-9B55-D8F136AA44B7}
+	EndGlobalSection
+EndGlobal
